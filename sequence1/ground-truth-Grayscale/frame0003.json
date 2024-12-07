@@ -1,0 +1,45 @@
+{
+    "info": {
+        "description": "ISAT",
+        "folder": "E:/COESOT/CEUTrack/data/COESOT/test/dvSave-2021_12_21_17_34_38/dvSave-2021_12_21_17_34_38_aps",
+        "name": "frame0163.png",
+        "width": 346,
+        "height": 260,
+        "depth": 0,
+        "note": ""
+    },
+    "objects": [
+        {
+            "category": "__background__",
+            "group": 1,
+            "segmentation": [
+                [
+                    90.66,
+                    178.29
+                ],
+                [
+                    229.16,
+                    181.31
+                ],
+                [
+                    231.17,
+                    91.16
+                ],
+                [
+                    90.15,
+                    91.16
+                ]
+            ],
+            "area": 12389.517451358031,
+            "layer": 1.0,
+            "bbox": [
+                89.6513828238719,
+                90.65866084425036,
+                231.67018088354286,
+                181.80992470232985
+            ],
+            "iscrowd": false,
+            "note": ""
+        }
+    ]
+}
